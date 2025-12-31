@@ -1,6 +1,8 @@
 # A Metro Messy Transfer System
 一个非常复杂繁琐的地铁换乘系统(*非人类编写*)，于临时个人需求使用，但不建议尝试。该系统为纯js代码实现且可单网页运行。
 
+项目部署在 [**地铁换乘系统**](https://leeonbeans.github.io/AMetroMessyTransferSystem/metro.html)
+
 #### 该项目引用了 `panzoom.min` js ，请确保您的 html 文件目录下含有`panzoom.min.js`文件，或于 html 文件中更改引用 `panzoom.min` js 的路径。
 
 ## Step 1
